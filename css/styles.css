@@ -35,3 +35,20 @@ li {
 .cd-list li {
     font-size: 14px;
 }
+
+.education-date {
+    font-size: 15.5px;
+}
+
+.education-degree{
+    font-size: 17.5px;
+    text-decoration: underline;
+}
+
+.education-degree-detail{
+    font-size: 16px;
+}
+
+.education-body-detail{
+    margin-bottom: 10em;
+}
