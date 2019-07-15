@@ -50,7 +50,25 @@ li {
     font-size: 16px;
 }
 .project_tech_img {
-    height: 60px;
-    width: 60px;
+    height: 55px;
+    width: 55px;
+    margin-right: .6%;
+}
+
+.project_tech_img_mean{
+    height: 55px;
+    width: 48px;
+    margin-right: .75%;
+}
+
+.project_tech_img_mean_2{
+    height: 55px;
+    width: 70px;
+    margin-right: .75%;
+}
+
+.project_tech_img_mean_3{
+    height: 55px;
+    width: 45px;
     margin-right: .75%;
 }
