@@ -13,6 +13,11 @@
     height: 100px;
     width: 100px;
 }
+.skill-logo-square{
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
 .edu-cd-logo{
     height: 150px;
     width: 320px;
