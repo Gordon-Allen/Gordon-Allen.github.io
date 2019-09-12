@@ -60,29 +60,29 @@ li {
     font-size: 16px;
 }
 .project_tech_img {
-    height: 65px;
-    width: 65px;
+    height: 60px;
+    width: 60px;
     margin-right: .75%;
 }
 .project_tech_img_csharp {
-    height: 65px;
-    width: 65px;
+    height: 60px;
+    width: 60px;
     margin-right: .75%;
     margin-left: .75%;
 }
 .project_tech_img_mean{
-    height: 65px;
-    width: 60px;
+    height: 60px;
+    width: 55px;
     margin-right: .75%;
 }
 .project_tech_img_mean_2{
-    height: 65px;
-    width: 80px;
+    height: 60px;
+    width: 75px;
     margin-right: .75%;
 }
 .project_tech_img_mean_3{
-    height: 65px;
-    width: 55px;
+    height: 60px;
+    width: 50px;
     margin-right: 1%;
 }
 .project_tech_img_small{
