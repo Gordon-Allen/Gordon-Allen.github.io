@@ -91,3 +91,9 @@ li {
     margin-right: .5%;
     margin-left: -.2%;
 }
+
+.project_tech_img_bootstrap {
+    height: 70px;
+    width: 67.5px;
+    margin-right: .75%;
+}
