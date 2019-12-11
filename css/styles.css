@@ -26,6 +26,10 @@
 .skill-logo{
     height: 100px;
     width: 100px;
+    transition: all 1.42s ease;
+}
+.skill-logo:hover{
+    transform: scale(1.1);
 }
 .skill-logo-square{
     height: 100px;
@@ -36,120 +40,141 @@
 .skill-logo-ajax{
     height: 100px;
     width:135px;
+    transition: all 1.42s ease;
+}
+.skill-logo-ajax:hover {
+    transform: scale(1.1);
 }
 .skill-logo-bootstrap{
     height: 95px;
     width: 135px;
+    transition: all 1.42s ease;
+}
+.skill-logo-bootstrap:hover{
+    transform: scale(1.1);
 }
 .skill-logo-api{
     height: 105px;
     width: 110px;
+    transition: all 1.42s ease;
+}
+.skill-logo-api:hover{
+    transform: scale(1.1);
 }
 .skill-logo-django{
     height: 100px;
     width: 175px;
     margin-top: 10px;
+    transition: all 1.42s ease;
+}
+.skill-logo-django:hover{
+    transform: scale(1.1);
 }
 .skill-logo-sqlite{
     height: 100px;
     width: 100px;
     margin-top: 5px; 
     margin-left: -15px;
+    transition: all 1.42s ease;
+}
+.skill-logo-sqlite:hover{
+    transform: scale(1.1);
 }
 .skill-logo-mysql{
     height: 110px;
     width: 150px;
     margin-left: -20px;
+    transition: all 1.42s ease;
+}
+.skill-logo-mysql:hover{
+    transform: scale(1.1);
 }
 .skill-logo-aspdotnetmvc{
     height: 100px;
     width: 150px;
     border-radius: 25px;
     box-shadow: .5px .5px .5px .15px lightgrey;
+    transition: all 1.42s ease;
+}
+.skill-logo-aspdotnetmvc:hover{
+    transform: scale(1.1);
 }
 .skill-logo-msvisualstudio{
     height: 110px;
     width: 120px;
+    transition: all 1.42s ease;
 }
-.skill-logo-mssqlserver{
-    height: 110px;
-    width: 145px;
-    margin-left: -5px;
+.skill-logo-msvisualstudio:hover{
+    transform: scale(1.1);
 }
 .skill-logo-aspdotnetmvccore{
     height: 107.5px;
     width: 170px;
     border-radius: 25px;
     box-shadow: .5px .5px .5px .15px lightgrey;
+    transition: all 1.42s ease;
+}
+.skill-logo-aspdotnetmvccore:hover{
+    transform: scale(1.1);
 }
 .skill-logo-efcore{
     height: 103px;
     width: 230px;
     border-radius: 25px;
     box-shadow: .5px .5px .5px .15px lightgrey;
-
+    transition: all 1.42s ease;
+}
+.skill-logo-efcore:hover{
+    transform: scale(1.1);
 }
 .skill-logo-express{
     height: 100px;
     width: 180px;
     margin-left: -10px;
+    transition: all 1.42s ease;
+}
+.skill-logo-express:hover{
+    transform: scale(1.1);
 }
 .skill-logo-node{
     height: 100px;
     width: 135px;
+    transition: all 1.42s ease;
+}
+.skill-logo-node:hover{
+    transform: scale(1.1);
 }
 .skill-logo-npm{
     height: 100px;
     width: 105px;
+    transition: all 1.42s ease;
 }
-.skill-logo-socket{
-    height: 105px;
-    width: 105px;
+.skill-logo-npm:hover{
+    transform: scale(1.1);
 }
 .skill-logo-mongoose{
     height: 105px;
     width: 180px;
+    transition: all 1.42s ease;
 }
-.skill-logo-unity{
-    height: 100px;
-    width: 250px;
-}
-.skill-logo-jasmine{
-    height: 110px;
-    width: 110px;
+.skill-logo-mongoose:hover{
+    transform: scale(1.1);
 }
 .skill-logo-opencv{
     height: 105px;
     width: 260px;
+    transition: all 1.42s ease;
 }
-.skill-logo-selenium{
-    height: 130px;
-    width: 130px;
-}
-.skill-logo-gunicorn{
-    height: 100px;
-    width: 280px;
-}
-.skill-logo-redis{
-    height: 100px;
-    width: 280px;
-    margin-left: 25px;
+.skill-logo-opencv:hover{
+    transform: scale(1.1);
 }
 .skill-logo-aws{
     height: 100px;
     width: 260px;
+    transition: all 1.42s ease;
 }
-.skill-logo-less{
-    height: 100px;
-    width: 200px;
-}
-.skill-logo-postgresql{
-    height: 110px;
-    width: 280px;
-}
-.skill-logo-sass{
-    height: 105px;
-    width: 165px;
+.skill-logo-aws:hover{
+    transform: scale(1.1);
 }
 .edu-cd-logo{
     height: auto;
