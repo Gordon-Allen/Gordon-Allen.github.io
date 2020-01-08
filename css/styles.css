@@ -243,59 +243,104 @@ li {
     height: 60px;
     width: 60px;
     margin-right: .75%;
+    transition: all 1.35s ease;
 }
+.project_tech_img:hover{
+    transform: scale(1.1);
+}
+
 .project_tech_img_csharp {
     height: 60px;
     width: 60px;
     margin-right: .75%;
     margin-left: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_csharp:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_mean{
     height: 60px;
     width: 55px;
     margin-right: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_mean:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_mean_express{
     height: 60px;
     width: 82.5px;
     margin-right: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_mean_express:hover{
+    transform: scale(1.05);
 }
 .project_tech_img_mean_angular{
     height: 60px;
     width: 50px;
     margin-right: 1%;
+    transition: all 1.35s ease;
 }
-.project_tech_img_small{
+.project_tech_img_mean_angular:hover{
+    transform: scale(1.1);
+}
+.project_tech_img_openweathermap{
     height: 60px;
     width: 60px;
     margin-right: .5%;
     margin-left: -.2%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_openweathermap:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_bootstrap {
     height: 65px;
     width: 65px;
     margin-right: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_bootstrap:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_bootstrap_2 {
     height: 65px;
     width: 65px;
     margin-right: .75%;
     margin-left: -.5%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_bootstrap_2:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_sqlite {
     height: 60px;
     width: 60px;
     margin-right: .75%;
     margin-left: 5px;
+    transition: all 1.35s ease;
+}
+.project_tech_img_sqlite:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_mysql {
     height: 60px;
     width: 75px;
     margin-right: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_mysql:hover{
+    transform: scale(1.1);
 }
 .project_tech_img_opencv {
     height: 75px;
     width: 185px;
+    transition: all 1.35s ease;
+}
+.project_tech_img_opencv:hover{
+    transform: scale(1.05);
 }
 .project_desc_header{
     color: #337ab7; 
