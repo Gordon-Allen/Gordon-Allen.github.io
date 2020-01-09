@@ -176,6 +176,14 @@
 .skill-logo-aws:hover{
     transform: scale(1.1);
 }
+.skill-logo-jquery{
+    height: 110px;
+    width: 110px;
+    transition: all 1.42s ease;
+}
+.skill-logo-jquery:hover{
+    transform: scale(1.1);
+}
 .edu-cd-logo{
     height: auto;
     width: auto;
