@@ -286,7 +286,7 @@ li {
 }
 .project_tech_img_mean_express{
     height: 60px;
-    width: 82.5px;
+    width: 85px;
     margin-right: .75%;
     transition: all 1.35s ease;
 }
@@ -358,6 +358,16 @@ li {
 .project_tech_img_opencv:hover{
     transform: scale(1.05);
 }
+.project_tech_img_node {
+    height: 60px;
+    width: 70px;
+    margin-right: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_node:hover{
+    transform: scale(1.1);
+}
+
 .project_desc_header{
     color: #337ab7; 
     font-weight: 600;
