@@ -183,6 +183,10 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1.5%;
+    transition: all 1.42s ease;
+}
+.edu-cd-logo:hover{
+    transform: scale(1.05);
 }
 @media only screen and (max-width: 650px){
     .home_background {
@@ -210,6 +214,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transition: all 1.42s ease;
+}
+.edu-iub-logo:hover{
+    transform: scale(1.05);
 }
 .project-image img {
     height: 310px;
