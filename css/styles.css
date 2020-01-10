@@ -22,6 +22,10 @@
     margin: 0 auto;
     position: relative;
     margin-top: -3.25%;
+    transition: all 1.42s ease;
+}
+.about_me_img:hover{
+    transform: scale(1.05);
 }
 .skill-logo{
     height: 100px;
