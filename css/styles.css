@@ -165,7 +165,7 @@
     transform: scale(1.1);
 }
 .skill-logo-opencv{
-    height: 105px;
+    height: 140px;
     width: 260px;
     transition: all 1.42s ease;
 }
@@ -175,6 +175,7 @@
 .skill-logo-aws{
     height: 100px;
     width: 260px;
+    margin-top: -75px;
     transition: all 1.42s ease;
 }
 .skill-logo-aws:hover{
@@ -188,6 +189,16 @@
 .skill-logo-jquery:hover{
     transform: scale(1.1);
 }
+.skill-logo-azure{
+    height: 250px;
+    width: 350px;
+    margin-top: -75px;
+    transition: all 1.42s ease;
+}
+.skill-logo-azure:hover{
+    transform: scale(1.1);
+}
+
 .edu-cd-logo{
     display: block;
     margin-left: auto;
