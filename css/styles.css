@@ -380,6 +380,24 @@ li {
 .project_tech_img_node:hover{
     transform: scale(1.1);
 }
+.project_tech_img_npmjsonserver {
+    height: 65px;
+    width: 85px;
+    margin-right: .25%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_npmjsonserver:hover{
+    transform: scale(1.1);
+}
+.project_tech_img_jquery{
+    height: 60px;
+    width: 55px;
+    margin-right: .75%;
+    transition: all 1.35s ease;
+}
+.project_tech_img_jquery:hover{
+    transform: scale(1.1);
+}
 
 .project_desc_header{
     color: #337ab7; 
