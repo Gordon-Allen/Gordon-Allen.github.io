@@ -403,7 +403,7 @@ li {
     height: 45px;
     width: 65px;
     margin-right: .75%;
-    transition: all 1.35s ease;
+    transition: all 1.5s ease;
 }
 .project_tech_img_youtubeapi:hover{
     transform: scale(1.1);
