@@ -22,18 +22,26 @@
     margin: 0 auto;
     position: relative;
     margin-top: -3.25%;
-    transition: all 1.42s ease;
+    transition: all 1.5s ease;
 }
 .about_me_img:hover{
-    transform: scale(1.05);
+    transform: scale(1.075);
 }
 .skill-logo{
     height: 100px;
     width: 100px;
-    transition: all 1.42s ease;
+    transition: all 1.5s ease;
 }
 .skill-logo:hover{
     transform: scale(1.1);
+}
+.skill-logo-typescript{
+    height: 100px;
+    width: 100px;
+    transition: all 1.8s ease;
+}
+.skill-logo-typescript:hover{
+    transform: scale(1.15);
 }
 .skill-logo-square{
     height: 100px;
@@ -79,7 +87,7 @@
     width: 100px;
     margin-top: 5px; 
     margin-left: -15px;
-    transition: all 1.42s ease;
+    transition: all 1.5s ease;
 }
 .skill-logo-sqlite:hover{
     transform: scale(1.1);
@@ -151,7 +159,7 @@
 .skill-logo-npm{
     height: 100px;
     width: 105px;
-    transition: all 1.42s ease;
+    transition: all 1.5s ease;
 }
 .skill-logo-npm:hover{
     transform: scale(1.1);
