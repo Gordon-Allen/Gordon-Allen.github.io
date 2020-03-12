@@ -38,10 +38,10 @@
 .skill-logo-typescript{
     height: 100px;
     width: 100px;
-    transition: all 1.8s ease;
+    transition: all 1.5s ease;
 }
 .skill-logo-typescript:hover{
-    transform: scale(1.15);
+    transform: scale(1.2);
 }
 .skill-logo-square{
     height: 100px;
